@@ -8,4 +8,8 @@ int main(){
 		
 	double w[5]={5,3,4,4,2};
 	double ha1,ha2,ha3;
-}
+	
+	// SETTING PRESISI DESIMAL
+	cout.setf(ios::fixed);cout.setf(ios::showpoint);cout.precision(4);
+
+	
